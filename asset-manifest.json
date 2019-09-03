@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hello-amplify/static/css/main.2cce8147.chunk.css",
+    "main.js": "/hello-amplify/static/js/main.4fdbcd4f.chunk.js",
+    "main.js.map": "/hello-amplify/static/js/main.4fdbcd4f.chunk.js.map",
+    "runtime~main.js": "/hello-amplify/static/js/runtime~main.08725721.js",
+    "runtime~main.js.map": "/hello-amplify/static/js/runtime~main.08725721.js.map",
+    "static/css/2.eee0f4a3.chunk.css": "/hello-amplify/static/css/2.eee0f4a3.chunk.css",
+    "static/js/2.23b45eac.chunk.js": "/hello-amplify/static/js/2.23b45eac.chunk.js",
+    "static/js/2.23b45eac.chunk.js.map": "/hello-amplify/static/js/2.23b45eac.chunk.js.map",
+    "index.html": "/hello-amplify/index.html",
+    "precache-manifest.cd80f8385915c2d28951911da14f3bd2.js": "/hello-amplify/precache-manifest.cd80f8385915c2d28951911da14f3bd2.js",
+    "service-worker.js": "/hello-amplify/service-worker.js",
+    "static/css/2.eee0f4a3.chunk.css.map": "/hello-amplify/static/css/2.eee0f4a3.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/hello-amplify/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/hello-amplify/static/media/logo.5d5d9eef.svg"
+  }
+}
